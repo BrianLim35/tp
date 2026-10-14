@@ -12,7 +12,7 @@ import java.util.Objects;
 public final class Mission {
 
     public static final String MISSING_DESCRIPTION =
-            "Mission description cannot be blank";
+            "Mission description cannot be blank.";
 
     private final MissionId id;
     private final String description;
